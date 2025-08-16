@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git test2
+=======
+git test3
+>>>>>>> e7c67d7 (a 수정2)
 git push test
